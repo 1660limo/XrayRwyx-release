@@ -15,8 +15,8 @@ ConnectionConfig:
 Nodes:
   - PanelType: "V2board" # Panel type: SSpanel, NewV2board, PMpanel, Proxypanel, V2RaySocks, GoV2Panel
     ApiConfig:
-      ApiHost: "https://host.ydnode.us"
-      ApiKey: "aa11bb22cc33dd44ee55"
+      ApiHost: "https://host.us"
+      ApiKey: "11"
       NodeID: 7
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
